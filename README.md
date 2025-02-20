@@ -4,21 +4,21 @@
 
 
 ## Overview : 
-This dashboard is for presenting my insights to the regional manager of the coffee chain with 3 different stores.I have created a dashboard which can help me discuss the operations of these stores with my higher-ups. This will be done solely to optimize the operations.
+This dashboard is for presenting my insights of Financial growth to the diffrent top 20 campanies.I have created a dashboard which can help me discuss the operations of these campanies with my higher-ups. This will be done solely to optimize the operations.
 
 ## Tool used :
 ![image](https://github.com/user-attachments/assets/7f344ffe-a5d9-4dea-822d-e605d7b7544f)
 
 
 ## Result and Insights :
-- I have noticed that the Revenue is continuously growing.
-- The busiest days are Mondays, Thursdays and Fridays in general. This does make sense since people do like to visit coffee shops when they are all jacked up for work.
-- The busiest hours are in the mornings when people are visiting their offices.
-- This trend is similar for all the stores.
-- The top category is coffee and the product is Barista Espresso across the board.
+- The bar chart indicates that average revenue is generally higher than average profit.
+- Companies with larger pie slices (higher margins) more profitable or better at managing costs.
+- An upward trend in assets, is not matched by a similar rise in liabilities, it indicates stronger financial health.
+- The “High Risk,” “Moderate,” and “Safe” categorization helps quickly identify the financial stability of each company.This is useful for investors to prioritize research or allocation of funds.
+- ROE and Equity sums by year help measure profitability and shareholder value creation over time.Consistent or growing ROE  indicates effective management and sustainable operations.
 
 ## Data Story :
-I have noticed that the bottom products for all the stores include some flavours and other products like coffee beans. Also, the merchandise clothing for Hell's Kitchen is way less as compared to other stores. We shall provide some discount offers to this store to increase sales. Or else completely remove it from displaying at this store and keep it available on order only. This shall help us reduce costs of operations.
+I have noticed that the Over the past seven years (2017-2024),most companies have experienced steady revenue growth.Monitoring year-over-year changes will help in adjusting strategies in real time, ensuring that rising liabilities do not erosion profitability. Finally, for lower-risk companies with strong balance sheets, strategic investments could help capture more market share.
 
 ## Dashboard :
 ![image](finance_data_my_pro_ss.png)
