@@ -1,6 +1,6 @@
 # FINANCE-OVERVIEW analysis
 
-![Coffee Background Banner (4)](5725960-uhd_3840_2160_30fps (1).mp4)
+![Coffee Background Banner (4)](5725960-uhd_3840_2160_30fps(1).mp4)
 
 
 ## Overview : 
@@ -21,4 +21,4 @@ This dashboard is for presenting my insights to the regional manager of the coff
 I have noticed that the bottom products for all the stores include some flavours and other products like coffee beans. Also, the merchandise clothing for Hell's Kitchen is way less as compared to other stores. We shall provide some discount offers to this store to increase sales. Or else completely remove it from displaying at this store and keep it available on order only. This shall help us reduce costs of operations.
 
 ## Dashboard :
-![image](finance data my pro ss.png)
+![image](financedatamypross.png)
