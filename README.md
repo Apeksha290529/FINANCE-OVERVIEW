@@ -1,6 +1,6 @@
 # FINANCE-OVERVIEW analysis
 
-![Finance analysis (4)](pexels-pavel-danilyuk-8761528.jpg)
+![Finance analysis (4)](photo_2.jpg)
 
 
 ## Overview : 
