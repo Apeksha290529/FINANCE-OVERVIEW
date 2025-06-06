@@ -21,4 +21,4 @@ This dashboard is for presenting my insights of Financial growth to the diffrent
 I have noticed that the Over the past seven years (2017-2024),most companies have experienced steady revenue growth.Monitoring year-over-year changes will help in adjusting strategies in real time, ensuring that rising liabilities do not erosion profitability. Finally, for lower-risk companies with strong balance sheets, strategic investments could help capture more market share.
 
 ## Dashboard :
-![image](finance_data_my_pro_ss.png)
+![image](finanace_excel_dasboards.png)
