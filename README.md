@@ -25,4 +25,4 @@ I have noticed that the Over the past seven years (2017-2024),most companies hav
 ---
 
 ## Dashboard :
-![image](finanace_excel_dasboards.png)
+![image](finanace_excel_dashboard.png)
