@@ -1,6 +1,6 @@
 # FINANCE-OVERVIEW ANALYSIS
 
-![Finance analysis (4)](photo_2.jpg)
+![Finance analysis (4)](pexels-fauxels-3184311.jpg)
 
 
 ## Overview : 
@@ -25,4 +25,4 @@ I have noticed that the Over the past seven years (2017-2024),most companies hav
 ---
 
 ## Dashboard :
-![image](pexels-fauxels-3184311.jpg)
+![image](finanace_excel_dashboard.png)
